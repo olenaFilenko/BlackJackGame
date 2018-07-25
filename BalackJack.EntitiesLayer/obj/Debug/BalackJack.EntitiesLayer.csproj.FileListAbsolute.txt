@@ -1,0 +1,5 @@
+C:\Users\Anuitex\source\repos\BlackJackFilenko\BalackJack.EntitiesLayer\bin\Debug\BalackJack.EntitiesLayer.dll
+C:\Users\Anuitex\source\repos\BlackJackFilenko\BalackJack.EntitiesLayer\bin\Debug\BalackJack.EntitiesLayer.pdb
+C:\Users\Anuitex\source\repos\BlackJackFilenko\BalackJack.EntitiesLayer\obj\Debug\BalackJack.EntitiesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Anuitex\source\repos\BlackJackFilenko\BalackJack.EntitiesLayer\obj\Debug\BalackJack.EntitiesLayer.dll
+C:\Users\Anuitex\source\repos\BlackJackFilenko\BalackJack.EntitiesLayer\obj\Debug\BalackJack.EntitiesLayer.pdb
